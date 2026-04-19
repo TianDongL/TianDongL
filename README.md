@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm TianDongL 👋
 
-<!--
-**TianDongL/TianDongL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名专注于 **生成式 AI（AIGC）**、**工作流构建（ComfyUI）** 以及 **音视频处理** 的开发者。我热衷于开发开箱即用的 AI 本地化工具，并为开源社区贡献高质量的 ComfyUI 插件。
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈与领域
+- **编程语言:** Python
+- **AI 与深度学习:** ComfyUI, Diffusers, 语音识别/克隆 (WhisperX, Inde-tts2), 机器翻译 (Qwen)
+- **多媒体处理:** FFmpeg, 图像频域技术 (DWT-DCT-SVD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 核心开源项目
+
+### 🎬 AI 音视频与本地化工具
+- **[VideoSyncMaster](https://github.com/TianDongL/VideoSyncMaster)** (⭐ 130+)
+  一键式 AI 视频多语言配音工具。深度集成了 WhisperX (ASR)、Qwen (翻译)、Inde-tts2 (语音克隆) 和 FFmpeg，为 Windows 用户提供开箱即用的本地化视频配音解决方案。
+- **[DiffPipeForge](https://github.com/TianDongL/DiffPipeForge)** 
+  基于 Diffusion Pipe 构建的带有优雅 UI 的高效工具。
+
+### 🎨 ComfyUI 生态与插件
+- **[Diffusion_pipe_in_ComfyUI](https://github.com/TianDongL/Diffusion_pipe_in_ComfyUI)** (⭐ 70+)
+  在 ComfyUI 中完美实现 Diffusion Pipe 工作流及相关拓展平台（支持 Windows 独立版本）。
+- **[Blind_watermark_Comfyui](https://github.com/TianDongL/Blind_watermark_Comfyui)**
+  强大的 ComfyUI 盲水印插件，基于频域技术（DWT-DCT-SVD），支持在图像中嵌入和提取不可见的数字水印。
+- **[ComfyUI_diffusers_loader](https://github.com/TianDongL/ComfyUI_diffusers_loader)**
+  无缝加载 Diffusers 图像生成模型的自定义节点，目前特别针对 Qwen 模型架构进行了深度优化。
+
+## 🌱 目前的探索方向
+- 持续优化基于 ComfyUI 和 Diffusers 的图像/视频生成工作流。
+- 探索多模态大模型在实际音视频处理及自动化场景中的落地应用。
+
+---
+💬 **Let's connect!** 欢迎对 AI 视频处理、语音克隆或者 ComfyUI 插件开发感兴趣的朋友一起交流和 PR！
