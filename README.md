@@ -23,9 +23,6 @@
 - **[ComfyUI_diffusers_loader](https://github.com/TianDongL/ComfyUI_diffusers_loader)**
   无缝加载 Diffusers 图像生成模型的自定义节点，目前特别针对 Qwen 模型架构进行了深度优化。
 
-## 🌱 目前的探索方向
-- 持续优化基于 ComfyUI 和 Diffusers 的图像/视频生成工作流。
-- 探索多模态大模型在实际音视频处理及自动化场景中的落地应用。
 
 ---
 💬 **Let's connect!** 欢迎对 AI 视频处理、语音克隆或者 ComfyUI 插件开发感兴趣的朋友一起交流和 PR！
